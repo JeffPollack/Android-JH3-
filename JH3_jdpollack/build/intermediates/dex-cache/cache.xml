@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\jeffandroid\android\SDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\Android\JH3_jdpollack\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-93dd78035685c3d861fdadf9467cdc6a81d97df2.jar" />
+    </item>
+    <item
+        jar="E:\Android\JH3_jdpollack\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\Android\JH3_jdpollack\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-825f4b10f404df0a78f3e28a12107c8f65fa4272.jar" />
+    </item>
+    <item
+        jar="E:\Android\JH3_jdpollack\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\Android\JH3_jdpollack\app\build\intermediates\pre-dexed\debug\classes-6b0e61db19f7d27bdc9ba829291041ff3b3ed785.jar" />
+    </item>
+    <item
+        jar="E:\Android\JH3_jdpollack\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\Android\JH3_jdpollack\app\build\intermediates\pre-dexed\debug\classes-e8d7e95c0f040f2e405f6f88da0424c1996c7811.jar" />
+    </item>
+
+</items>
